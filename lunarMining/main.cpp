@@ -20,7 +20,7 @@
 using namespace std;
 
 /*
- * 
+ * This code was written for interview at VAST
  */
 
 int truckCount; // Total number of trucks in the scenario
